@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>Hello</first_name>
+	<last_name>World</last_name>
+	<phone_number>3931235</phone_number>
+	<email></email>
+</contact>
+<contact>
+	<first_name>Ed </first_name>
+	<last_name>ramirez</last_name>
+	<phone_number>26455</phone_number>
+	<email></email>
+</contact>
+<contact>
+	<first_name>Ed</first_name>
+	<last_name>Dd</last_name>
+	<phone_number>1234567</phone_number>
+	<email>ed@gmail.com</email>
+</contact>
+<contact>
+	<first_name>Eduardo</first_name>
+	<last_name>Ramirez</last_name>
+	<phone_number>987654321</phone_number>
+	<email>hello@gmail.com</email>
+</contact>
+<contact>
+	<first_name>Hello</first_name>
+	<last_name>Dr Sam</last_name>
+	<phone_number>123456</phone_number>
+	<email>lewis.edu</email>
+</contact>
+</contacts>
